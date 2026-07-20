@@ -126,63 +126,49 @@ Drone-Delivery-System
 
 # 📸 Screenshots
 
-## Project Structure
+## Drone Service 
 
-![Project Structure](Screenshots/project-structure.png)
+<img width="1920" height="1080" alt="Screenshot (432)" src="https://github.com/user-attachments/assets/876d67af-e17f-4457-909f-57ca6a66ebe6" />
 
----
+<img width="1920" height="1080" alt="Screenshot (436)" src="https://github.com/user-attachments/assets/4fb7ecb3-861a-4d26-a6e8-7b7aba1d7f4f" />
 
-## Drone Service APIs
+## Package Service 
 
-![Drone Service](Screenshots/drone-service.png)
+<img width="1920" height="1080" alt="Screenshot (435)" src="https://github.com/user-attachments/assets/d6fd3e29-55a8-40e5-a148-8726848f9922" />
 
----
+<img width="1920" height="1080" alt="Screenshot (434)" src="https://github.com/user-attachments/assets/de0af3b0-90bc-41c4-b998-92b7b75e0ee8" />
 
-## Package Service APIs
+## Route Service 
 
-![Package Service](Screenshots/package-service.png)
+<img width="1920" height="1080" alt="Screenshot (437)" src="https://github.com/user-attachments/assets/17da4d73-0166-41c4-a1f8-daebbf4eb272" />
 
----
+<img width="1920" height="1080" alt="Screenshot (438)" src="https://github.com/user-attachments/assets/6bace624-88e8-4a43-9a10-43bc6de3970f" />
 
-## Route Service APIs
+## Delivery Service 
 
-![Route Service](Screenshots/route-service.png)
+<img width="1920" height="1080" alt="Screenshot (439)" src="https://github.com/user-attachments/assets/ddfed0a9-eaa9-42ad-869d-b9e5dc4b33c7" />
 
----
-
-## Delivery Service APIs
-
-![Delivery Service](Screenshots/delivery-service.png)
-
----
+<img width="1920" height="1080" alt="Screenshot (441)" src="https://github.com/user-attachments/assets/b4782e12-6825-400c-b05f-1cad8bc6c481" />
 
 ## API Gateway
 
-![API Gateway](Screenshots/api-gateway.png)
-
----
-
-## Postman Testing
-
-![Postman](Screenshots/postman-testing.png)
-
----
+<img width="1920" height="1080" alt="Screenshot (447)" src="https://github.com/user-attachments/assets/e8958c13-987b-4e87-98c8-a5cae104b954" />
 
 ## H2 Database
 
-![H2 Database](Screenshots/h2-database.png)
+<img width="1920" height="1080" alt="Screenshot (442)" src="https://github.com/user-attachments/assets/edad0759-c8eb-4f22-b4ae-2f0a7f41adb1" />
 
----
+<img width="1920" height="1080" alt="Screenshot (443)" src="https://github.com/user-attachments/assets/1b3eff92-ed6d-4b38-97af-8e7e8b74cf07" />
 
-## Console Logs
+<img width="1920" height="1080" alt="Screenshot (444)" src="https://github.com/user-attachments/assets/9c1a5a5f-4e52-41bb-ba72-f6f22fb21368" />
 
-![Console Logs](Screenshots/console-logs.png)
+<img width="1920" height="1080" alt="Screenshot (445)" src="https://github.com/user-attachments/assets/c30dd003-0ec3-4758-8968-6096f7828115" />
 
----
+<img width="1920" height="1080" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/95598328-511c-498c-840f-8da9d455f826" />
 
 # 👩‍💻 Author
 
-**Nithyaa Shree**
+**Nithyaa Shree T**
 
 B.Tech – Information Technology
 
